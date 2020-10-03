@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteRule ^ahmedabad.([a-zA-Z0-9_-]+)$ indexa.php?profile_username=$1
+RewriteRule ^ahmedabad.([a-zA-Z0-9_-]+)/$ indexa.php?profile_username=$1
+
+RewriteRule ^chennai.([a-zA-Z0-9_-]+)$ indexb.php?profile_username=$1
+RewriteRule ^chennai.([a-zA-Z0-9_-]+)/$ indexb.php?profile_username=$1
+
+RewriteRule ^guwahati.([a-zA-Z0-9_-]+)$ indexc.php?profile_username=$1
+RewriteRule ^guwahati.([a-zA-Z0-9_-]+)/$ indexc.php?profile_username=$1
+
+RewriteRule ^hyderabad.([a-zA-Z0-9_-]+)$ indexd.php?profile_username=$1
+RewriteRule ^hyderabad.([a-zA-Z0-9_-]+)/$ indexd.php?profile_username=$1
+
+RewriteRule ^trivandrum.([a-zA-Z0-9_-]+)$ indexe.php?profile_username=$1
+RewriteRule ^trivandrum.([a-zA-Z0-9_-]+)/$ indexe.php?profile_username=$1

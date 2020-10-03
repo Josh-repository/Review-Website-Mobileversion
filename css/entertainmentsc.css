@@ -1,0 +1,120 @@
+.dropdown
+{
+	position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 90%;
+
+}
+#citybox{
+	height: 3em;
+    width: 100%;
+    padding-left: 15px;
+}
+#citybox:hover
+{
+	    border-color: #3498db;
+}
+#namebox
+{
+	position: absolute;
+    top: 30%;
+    width: 90%;
+    height: 3em;
+    left: 5%;
+    border: 0.5px solid #D3D3D3;	
+    padding-left: 15px;
+    margin: 5px 0 22px 0;
+    border-radius: 3px;
+}
+#namebox:hover
+{
+	    border-color: #3498db;
+}
+#placebox
+{
+	position: absolute;
+    top: 40%;
+    width: 90%;
+    height: 3em;
+    left: 5%;
+    border: 0.5px solid #D3D3D3;
+    padding-left: 15px;
+    margin: 5px 0 22px 0;
+    border-radius: 3px;
+}
+#placebox:hover
+{
+	    border-color: #3498db;
+}
+#typebox{
+	position: absolute;
+    top: 50%;
+    width: 90%;
+    height: 3em;
+    left: 5%;
+    border: 0.5px solid #D3D3D3;
+	padding-left: 15px;
+	margin: 5px 0 22px 0;
+	border-radius: 3px;
+}
+#typebox:hover
+{
+	    border-color: #3498db;
+}
+#costbox{
+	position: absolute;
+    top: 61%;
+    width: 90%;
+    height: 3em;
+    left: 5%;
+    border: 0.5px solid #D3D3D3;	
+    padding-left: 15px;
+    border-radius: 3px;
+}
+#costbox:hover
+{
+	    border-color: #3498db;
+}
+#durationbox
+{
+	position: absolute;
+    top: 71%;
+    width: 90%;
+    height: 3em;
+    left: 5%;
+    border: 0.5px solid #D3D3D3;
+    padding-left: 15px;
+    border: 0.5px solid #D3D3D3;
+    border-radius: 3px;
+}
+#durationbox:hover
+{
+	    border-color: #3498db;
+}
+#register
+{
+	background-color: #fff;
+    border-radius: 15px;
+    height: 35px;
+    border: 1px solid #3498db;
+    margin: 7px 0px 7px 0px;
+    padding: 5px 10px 5px 10px;
+    color: #3498db;
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    border-radius: 3px;
+}
+#link
+{
+	position:absolute;
+	color: #3498db;
+	top: 90%;
+    left: 40%;
+}
+.wrraper
+{
+	background-color: #397480;
+    height: 86.3%;;
+}
